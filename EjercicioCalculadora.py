@@ -1,4 +1,6 @@
 # Diseñar un programa que solicite numeros y que pida la operacion matematica a realizar.
+import math
+
 print("Ingrse el primer numero")
 numero1 = float(input())
 print ('''Ingrese la operacion que desea realizar suma (+), resta (-), multiplicacion (*), division (/), potenciacion (**): ''')
